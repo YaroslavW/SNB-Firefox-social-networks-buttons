@@ -5,7 +5,7 @@
 // @namespace abcinblog.blogspot.ru
 // @version 0.01
 // 
-// @description Этот скрипт поможет вам загрузить картинку из Инстаграм - откроет на клик в удобном формате для скачивания!
+// @description This script adds virtual buttons of social networks on all sites.
 // @include https://www.facebook.com/*
 // @include https://m.facebook.com/*
 // @include https://www.instagram.com/*
